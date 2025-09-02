@@ -1,0 +1,7 @@
+./myvenv
+./Logs
+./Data
+./Config
+./BackUps
+./audio_path
+./src/modules/__pycache__
